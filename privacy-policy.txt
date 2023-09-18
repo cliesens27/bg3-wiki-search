@@ -1,7 +1,7 @@
 Seeing as this extension is very small, we forewent the legalese in favour of an unambiguous PP.
 
 This extension does not collect any personal data about the user whatsoever.
-It only intercepts browser requests matching one and only one domain related to the Path of Exile wiki website,
+It only intercepts browser requests matching one and only one domain related to the Baldur's Gate 3 wiki website,
 and redirects those to a new wiki site.
 
 We also ask the browser to tell us when the user pressed ENTER so we can send their search query to the new wiki URL.
