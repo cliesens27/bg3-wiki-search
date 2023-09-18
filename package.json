@@ -1,13 +1,10 @@
 {
     "name": "bg3-wiki-search",
-    "version": "1.0.7",
-    "description": "Super simple search for bg3.wiki!",
-    "main": "background/background.js",
+    "version": "1.1.0",
+    "description": "Simple wiki search for Baldur's Gate 3",
     "scripts": {
         "start": "web-ext run -s ./src",
-        "test": "jest",
-        "test:watch": "jest --watchAll",
-        "build": "web-ext build -s ./src/ -a build --ignore-files **/*.spec.js"
+        "build": "web-ext build -s ./src/ -a build"
     },
     "author": "github.com/pm5k",
     "contributors": [

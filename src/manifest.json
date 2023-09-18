@@ -1,24 +1,13 @@
 {
     "manifest_version": 2,
     "name": "BG3 Wiki Search",
-    "version": "1.0.7",
-    "description": "Stupid-simple wiki search for Baldur's Gate 3!",
+    "version": "1.1.0",
+    "description": "Simple wiki search for Baldur's Gate 3",
     "icons": {
         "96": "icons/icon_96.png",
         "152": "icons/icon_152.png"
     },
-    "permissions": [
-        "webRequest",
-        "webRequestBlocking",
-        "https://baldursgate.fandom.com/",
-        "https://google.com/",
-        "https://www.google.com/",
-        "https://duckduckgo.com/",
-        "https://www.duckduckgo.com/"
-    ],
-    "background": {
-        "page": "background/background.html"
-    },
+    "permissions": [],
     "browser_action": {
         "default_icon": "icons/favicon.png",
         "default_title": "BG3 Wiki Search",
